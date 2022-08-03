@@ -1,1 +1,2 @@
-# book_react_aprenda_praticando
+# React Aprenda Praticando
+Repositório para prática de exercicios do livro
