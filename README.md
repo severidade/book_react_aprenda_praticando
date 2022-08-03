@@ -13,7 +13,7 @@ Repositório para prática de exercicios do livro
   - [ ] 1.5 Arrow functions
   - [ ] 1.6 Operador spread
   - [ ] 1.7 Métodos map(), filter() e find()
-  - [ ] 1.7.1 Método map()
+  - [X] 1.7.1 Método map()
   - [ ] 1.7.2 Método filter()
   - [ ] 1.7.3 Método find()
   - [ ] 1.8 Template Literals
