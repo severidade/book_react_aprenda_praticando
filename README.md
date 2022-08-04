@@ -19,6 +19,6 @@ Repositório para prática de exercicios do livro
   - [X] 1.8 Template Literals
   - [ ] 1.9 Classes
   - [X] 1.10 Atribuição via desestruturação (Destructuring assignment)
-  - [ ] 1.11 Import e export
+  - [X] 1.11 Import e export
   - [ ] 1.12 Sintaxe JSX
 </details>
