@@ -1,24 +1,16 @@
 # React Aprenda Praticando
 Repositório para prática de exercicios do livro
 
-# Capítulos
+# Capítulo Conteúdo
 
 <details>
-  <summary><strong>Capítulo 1 ■ JavaScript para React</strong></summary><br />
+  <summary><strong>Capítulo 2 ■ Começando com React</strong></summary><br />
   
-  - [ ] 1.2 JavaScript e ECMAScript
-  - [ ] 1.2.1 Transpilers JavaScript
-  - [ ] 1.3 Declaração de variáveis
-  - [ ] 1.4 Operador ternário
-  - [ ] 1.5 Arrow functions
-  - [ ] 1.6 Operador spread
-  - [ ] 1.7 Métodos map(), filter() e find()
-  - [ ] 1.7.1 Método map()
-  - [ ] 1.7.2 Método filter()
-  - [ ] 1.7.3 Método find()
-  - [ ] 1.8 Template Literals
-  - [ ] 1.9 Classes
-  - [ ] 1.10 Atribuição via desestruturação (Destructuring assignment)
-  - [ ] 1.11 Import e export
-  - [ ] 1.12 Sintaxe JSX
+  - [ ] 2.1 Introdução
+  - [ ] 2.1.1 Ferramentas de desenvolvimento com React
+  - [ ] 2.2 DOM Core versus React.DOM
+  - [ ] 2.3 Página web com React.DOM
+  - [ ] 2.3.1 Componentes
+  - [ ] 2.4 Ciclo de vida dos componentes
+  - [ ] 2.4.1 Fases e métodos do ciclo de vida dos componentes
 </details>
