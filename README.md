@@ -1,7 +1,7 @@
 # React Aprenda Praticando
 Repositório para prática de exercicios do livro
 
-# Capítulos
+# Capítulo Conteúdo
 
 <details>
   <summary><strong>Capítulo 1 ■ JavaScript para React</strong></summary><br />
