@@ -16,7 +16,7 @@ Repositório para prática de exercicios do livro
   - [X] 1.7.1 Método map()
   - [X] 1.7.2 Método filter()
   - [X] 1.7.3 Método find()
-  - [ ] 1.8 Template Literals
+  - [X] 1.8 Template Literals
   - [ ] 1.9 Classes
   - [ ] 1.10 Atribuição via desestruturação (Destructuring assignment)
   - [ ] 1.11 Import e export
