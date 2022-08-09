@@ -1,6 +1,6 @@
 import React from "react";
 
-const TabelaBody = props => (
+const TabelaBody = (props) => (
   <tbody>
     { props.livros.map( ( livro, index ) => (
       <tr key={ livro.id }>

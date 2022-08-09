@@ -28,8 +28,8 @@ class App extends Component {
 		return (
 			<table className="tabela">
 				<TabelaHead />
-				<TabelaFoot />
 				<TabelaBody livros={ this.state.livros } />
+				<TabelaFoot qdeLivros= { this.state.livros.length } />
 			</table>
 		);
 	}
