@@ -4,21 +4,19 @@ Repositório para prática de exercicios do livro
 # Capítulos
 
 <details>
-  <summary><strong>Capítulo 1 ■ JavaScript para React</strong></summary><br />
+  <summary><strong>Capítulo 3 ■ Comando create-react-app</strong></summary><br />
   
-  - [ ] 1.2 JavaScript e ECMAScript
-  - [ ] 1.2.1 Transpilers JavaScript
-  - [ ] 1.3 Declaração de variáveis
-  - [ ] 1.4 Operador ternário
-  - [ ] 1.5 Arrow functions
-  - [ ] 1.6 Operador spread
-  - [ ] 1.7 Métodos map(), filter() e find()
-  - [ ] 1.7.1 Método map()
-  - [ ] 1.7.2 Método filter()
-  - [ ] 1.7.3 Método find()
-  - [ ] 1.8 Template Literals
-  - [ ] 1.9 Classes
-  - [ ] 1.10 Atribuição via desestruturação (Destructuring assignment)
-  - [ ] 1.11 Import e export
-  - [ ] 1.12 Sintaxe JSX
+  - [ ] 3.1 Introdução
+  - [ ] 3.2 Comando create-react-app
+  - [ ] 3.2.1 Estrutura padrão para desenvolver uma app React
+  - [ ] 3.2.2 Pastas e arquivos da estrutura
+  - [ ] 3.3 Tabela de livros
+  - [ ] 3.3.1 Tabela de livros – Primeiro passo
+  - [ ] 3.3.2 Tabela de livros – Segundo passo
+  - [ ] 3.3.3 Tabela de livros – Terceiro passo
+  - [ ] 3.3.4 Tabela de livros – Quarto passo
+  - [ ] 3.3.5 Tabela de livros – Quinto passo
+  - [ ] 3.3.6 Tabela de livros – Sexto passo (Finalizando o projeto)
+  - [ ] 3.4 Correção de bugs
+  - [ ] 3.5 Compartilhando uma aplicação React
 </details>
