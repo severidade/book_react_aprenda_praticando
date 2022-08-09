@@ -19,7 +19,12 @@ class App extends Component {
     });
   }
 
-  handleRemoverLinha = () => console.log("Botão clicado");
+  handleRemoverLinha = (id) =>{
+    // console.log("Botão clicado")
+    const livros = this.state.livros.filter(l => l.id !== id);
+    // cria um novo objeto excluíndo aquele cuja o id pertence ao item que deseja remover
+    this.setState({ livros });
+  };
     
 	render() {
 		return (
