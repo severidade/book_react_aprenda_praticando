@@ -15,8 +15,8 @@ Repositório para prática de exercicios do livro
   - [X] 3.3.2 Tabela de livros – Segundo passo
   - [X] 3.3.3 Tabela de livros – Terceiro passo
   - [X] 3.3.4 Tabela de livros – Quarto passo
-  - [ ] 3.3.5 Tabela de livros – Quinto passo
-  - [ ] 3.3.6 Tabela de livros – Sexto passo (Finalizando o projeto)
+  - [X] 3.3.5 Tabela de livros – Quinto passo
+  - [X] 3.3.6 Tabela de livros – Sexto passo (Finalizando o projeto)
   - [ ] 3.4 Correção de bugs
   - [ ] 3.5 Compartilhando uma aplicação React
 </details>
