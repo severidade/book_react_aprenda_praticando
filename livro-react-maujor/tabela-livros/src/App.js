@@ -26,16 +26,31 @@ class App extends Component {
     this.setState({ livros });
   };
 
-  handleOrdenarCrescente = (titulo) => {
+  handleOrdenarCrescente = (item) => {
     const livros = this.state.livros.sort((a,b) =>
       a.titulo < b.titulo ? -1:0
     );
     this.setState({ livros });
   };
 
-  handleOrdenarDecrescente = (titulo) => {
+  handleOrdenarDecrescente = (item) => {
     const livros = this.state.livros.sort((a,b) =>
       a.titulo < b.titulo ? -1:0
+    );
+    livros.reverse();
+    this.setState({ livros });
+  };
+
+  handleOrdenarCrescenteAutor = (item) => {
+    const livros = this.state.livros.sort((a,b) =>
+      a.autor < b.autor ? -1:0
+    );
+    this.setState({ livros });
+  };
+
+  handleOrdenarDecrescenteAutor = (item) => {
+    const livros = this.state.livros.sort((a,b) =>
+      a.autor < b.autor ? -1:0
     );
     livros.reverse();
     this.setState({ livros });
@@ -47,6 +62,9 @@ class App extends Component {
 				<TabelaHead
           ordenarCrescente={ this.handleOrdenarCrescente}
           ordenarDecrescente={ this.handleOrdenarDecrescente}
+
+          ordenarCrescenteAutor={ this.handleOrdenarCrescenteAutor}
+          ordenarDecrescenteAutor={ this.handleOrdenarDecrescenteAutor}
         />
 				<TabelaBody 
           livros={ this.state.livros }
